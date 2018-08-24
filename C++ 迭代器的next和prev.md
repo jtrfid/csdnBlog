@@ -7,7 +7,7 @@
 #include <map>
 using namespace std;
 
-int main()
+int main(){
   map<int, string> map1 = {{ 9,"a1" }, { 7, "a2" }, { 8,"a3" }};
   for (auto it = map1.begin(); it != map1.end(); it++)
   {
