@@ -14,6 +14,14 @@
    $x \notin y$
    $x \supqeteq y$
    
+   $x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$
+   
+
+$$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
+
+   
 -- **Block Math expression**
 居中$x$的平方
  $$x^2$$
